@@ -1,2 +1,3 @@
 # hello-world
-create a hello world print out
+create a hello world print out into console
+
